@@ -1,0 +1,19 @@
+a {
+	background-color: inherit;
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: inherit;
+	text-decoration: underline;
+}
+
+body {
+	background-color: white;
+	color: #474747;
+	font-family: arial;
+	font-size: 20px;
+	line-height: 1em;
+	text-align: justify;
+}
